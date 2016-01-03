@@ -1,0 +1,44 @@
+## Introduction
+### Dagger1
+
+- [Dagger](https://github.com/square/Dagger) - Github link , Original developed by Square
+
+
+### Dagger2
+
+- [Dagger2](http://google.github.io/dagger/) - fork自Square并由Google亲自操刀（零反射）
+
+
+## Demos
+
+### dagger1
+
+- [Sky31Radio](https://github.com/linroid/Sky31Radio) 湘潭大学三翼校园"四季电台" 
+Android客户端
+- [u2020](https://github.com/JakeWharton/u2020) By JakeWharton ！ 
+- [GitHot](https://github.com/andyiac/githot) GitHub client help to find popular people and project 
+- [EasyMVP](https://github.com/JorgeCastilloPrz/EasyMVP) also MVP architecture
+
+
+### dagger2
+- [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) 使用Dagger2架构，同时又是android架构最佳事件非常好的demo
+- [GitHubClient](https://github.com/frogermcs/GithubClient) frogermcs 同学有一系列的博文，见下文，这个是他写的一个完整的demo
+- [PhotoNoter](https://github.com/yydcdut/PhotoNoter) Material Design风格的开源照片笔记。（架构很清晰）
+
+## Blogs
+
+### dagger2
+
+- [dependency-injection-with-dagger-2-introdution-to-di](http://frogermcs.github.io/dependency-injection-with-dagger-2-introdution-to-di/)
+- [dependency-injection-with-dagger-2-the-api](http://frogermcs.github.io/dependency-injection-with-dagger-2-the-api/)
+- [dependency-injection-with-dagger-2-custom-scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
+- [dagger-graph-creation-performance](http://frogermcs.github.io/dagger-graph-creation-performance/)
+- [dagger-1-to-2-migration](http://frogermcs.github.io/dagger-1-to-2-migration/)
+- [tasting-dagger-2-on-android](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
+- [architecting-android-the-clean-way](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way) 
+
+
+## Video
+- [the-future-dependency-injection-dagger-2](https://www.parleys.com/tutorial/the-future-dependency-injection-dagger-2) By Jake Wharton
+- [architecting-android-applications-dagger](https://www.parleys.com/tutorial/architecting-android-applications-dagger) By Jake Wharton
+
