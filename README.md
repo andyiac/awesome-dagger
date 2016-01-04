@@ -36,6 +36,7 @@ Android客户端
 - [dagger-1-to-2-migration](http://frogermcs.github.io/dagger-1-to-2-migration/)
 - [tasting-dagger-2-on-android](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
 - [architecting-android-the-clean-way](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way) 
+- [Dependency Injection With Dagger 2 on Android](http://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345)
 
 
 ## Video
