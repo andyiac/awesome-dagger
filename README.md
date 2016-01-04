@@ -7,6 +7,7 @@
 ### Dagger2
 
 - [Dagger2](https://github.com/google/dagger) - Github link , fork自Square并由Google亲自操刀（零反射）
+- [Google+ Dagger Users Community](https://plus.google.com/communities/111933036769103367883)
 
 
 ## Demos
