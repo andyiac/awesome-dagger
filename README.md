@@ -25,6 +25,7 @@ Android客户端
 - [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) 使用Dagger2架构，同时又是android架构最佳事件非常好的demo
 - [GitHubClient](https://github.com/frogermcs/GithubClient) frogermcs 同学有一系列的博文，见下文，这个是他写的一个完整的demo
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) Material Design风格的开源照片笔记。（架构很清晰）
+- [GankDagger2](https://github.com/maoruibin/GankDagger2) 大侠咕咚的当妹子遇到 MVP+Dagger2
 
 ## Blogs
 
