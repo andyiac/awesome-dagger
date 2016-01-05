@@ -26,6 +26,7 @@ Android客户端
 - [GitHubClient](https://github.com/frogermcs/GithubClient) frogermcs 同学有一系列的博文，见下文，这个是他写的一个完整的demo
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) Material Design风格的开源照片笔记。（架构很清晰）
 - [GankDagger2](https://github.com/maoruibin/GankDagger2) 大侠咕咚的当妹子遇到 MVP+Dagger2
+- [Dagger2Scopes](https://github.com/JorgeCastilloPrz/Dagger2Scopes)
 
 ## Blogs
 
