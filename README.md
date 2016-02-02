@@ -28,6 +28,7 @@ Android客户端
 - [GankDagger2](https://github.com/maoruibin/GankDagger2) 大侠咕咚的当妹子遇到 MVP+Dagger2
 - [Dagger2Scopes](https://github.com/JorgeCastilloPrz/Dagger2Scopes)
 - [ribot](https://github.com/ribot/ribot-app-android) 从数据库、网络、测试到应用架构非常赞强烈推荐
+- [ZhihuDailyRRD](https://github.com/lsxiao/ZhihuDailyRRD) dagger2 架构的知乎日报
 
 ## Blogs
 
